@@ -38,4 +38,9 @@ Input: A D 100 Output: A => C => D => 50
 Input: E A 400 Output: E => D => B => A => 120
 Input: E A 80 Output: E => D => C => A => 60
 
+RUN THIS PROGRAM:
 
+RUN with including sample
+
+$ php run.php test_data.csv 
+(($ php [path of run.php] [path of test_data.csv]))
